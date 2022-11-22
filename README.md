@@ -1,4 +1,2 @@
 # Weather
-Learn React Native
-# weatherApp
-# weather
+Weather app using React Native
